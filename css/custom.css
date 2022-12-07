@@ -15,5 +15,5 @@
   /*cssmatic*/
   /*https://shadows.brumm.af/*/
   /* vertical, horizontal, blur, spread, color+opacity */
-  --boxShadow: 0 0 20px rgba(0, 0, 0, 0.35); /*var(--boxShadow) !important; */
+  --boxShadow: 0 0 20px rgba(0, 0, 0, 0.35); /* var(--boxShadow) !important; */
 }
